@@ -54,7 +54,7 @@ Autonomous system | Embodied AI | Swarm Robotics / Intelligence | UAV - Aerial R
 🧠 Current focus: <b>symbolic planning & certified control</b>, <b>multi-task RL</b>, <b>model-based control</b>, and <b>sim-to-real</b>.<br>
 </p>
 
-✔ <b>Portfolio</b>: 
+✔ <b>Portfolio</b>: <br>
 ✔ <b>Currently</b>: Nechatronics and Robotics Student @ <b>БелГУ</b> (Belgorod, Russia) <br>
 ✔ <b>Open to</b>: research collaborations, robotics/RL tooling, sim environments, and benchmarking projects<br>
 
