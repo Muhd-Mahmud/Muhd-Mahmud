@@ -18,13 +18,13 @@ Autonomous system | Embodied AI | Swarm Robotics / Intelligence | UAV - Aerial R
 <a href="https://www.linkedin.com/in/mahmud-muhammed/" target="blank">
   <img align="center" src="https://github.com/Ozzey/Ozzey/blob/main/assets/linkedin.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://www.facebook.com/aditya.narendra.5/" target="blank">
+<a href="https://www.facebook.com" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/oz.zey/" target="blank">
+<a href="https://www.instagram.com" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
-<a href="https://pypi.org/user/ozzey/" target="blank">
+<a href="https://pypi.org/user/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pypi.svg" alt="PyPI" height="30" width="40" />
 </a>
 <a href="mailto:mahmudmuhammed811@gmail.com">
